@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052169840818",
+    "firebase_url": "https://social-media-6dbee.firebaseio.com",
+    "project_id": "social-media-6dbee",
+    "storage_bucket": "social-media-6dbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052169840818:android:9dd71f2a8796b5705041ab",
+        "android_client_info": {
+          "package_name": "com.thirkazh.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052169840818-oiqmv3quksiaciju3jilguucsmv534oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thirkazh.instagram",
+            "certificate_hash": "a779b3dab2266269df1fc7593d1516497b02cef8"
+          }
+        },
+        {
+          "client_id": "1052169840818-ahhnu98hg8f6b9ovutjcttdfj8edusaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwh1R6SokGjqRMmy35G2D1MbShq7vSags"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052169840818-ahhnu98hg8f6b9ovutjcttdfj8edusaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
